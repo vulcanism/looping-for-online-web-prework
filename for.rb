@@ -4,5 +4,3 @@ def using_for
 	for phrase in checklist
 	puts "Wingardium Leviosa"
 end
-
-
